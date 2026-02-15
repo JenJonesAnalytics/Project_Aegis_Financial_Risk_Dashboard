@@ -1,5 +1,5 @@
 # Project Aegis: Strategic Financial Fraud Detection
-
+![Dashboard Preview](Project_Aegis_Dashboard_Final.png)
 ### 📊 [View the Live Executive Dashboard Here]([PASTE YOUR TABLEAU LINK HERE])
 
 **Analyst:** Jen Jones
