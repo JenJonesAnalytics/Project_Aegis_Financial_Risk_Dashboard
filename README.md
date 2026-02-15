@@ -1,6 +1,6 @@
 # Project Aegis: Strategic Financial Fraud Detection
 ![Dashboard Preview](Project_Aegis_Dashboard_Final.png)
-### 📊 [View the Live Executive Dashboard Here]([PASTE YOUR TABLEAU LINK HERE])
+### 📊 [View the Live Executive Dashboard Here](https://public.tableau.com/shared/S8F5DCXW2?:display_count=n&:origin=viz_share_link)
 
 **Analyst:** Jen Jones
 **Tools Used:** Google BigQuery (SQL), R-Studio (Statistical Modeling), Tableau (Visualization)
